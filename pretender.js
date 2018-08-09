@@ -490,4 +490,4 @@ if (typeof module === 'object') {
   });
 }
 self.Pretender = Pretender;
-}(self));
+}(global));
